@@ -1,0 +1,22 @@
+{
+  "name": "performance-testing-k6",
+  "version": "1.0.0",
+  "description": "This repo contains sample scripts for performance testing including spike testing, soak testing, stress testing and load testing.",
+  "main": "basic-test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshsavasil/performance-testing-k6.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshsavasil/performance-testing-k6/issues"
+  },
+  "homepage": "https://github.com/harshsavasil/performance-testing-k6#readme",
+  "dependencies": {
+    "csv": "^5.5.0"
+  }
+}
